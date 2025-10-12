@@ -8,4 +8,4 @@ I'm a **Physics student** and **self-taught developer** passionate about math, s
 ## 🚀 About Me
 - 🎓 Studying **Physics** at Universidad de Guanajuato  
 - 💻 Interested in **web development**, **data science**, and **machine learning**  
-- 🎯 Goal: Become a **researcher & developer** who bridges science and software
+- 🎯 Goal: Become a **researcher & developer** who bridges science and software and participate in human atlas cell project
